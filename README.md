@@ -1,1 +1,1 @@
-# robo_research2
+roslaunch panda_description description.launch
